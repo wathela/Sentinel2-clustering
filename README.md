@@ -11,7 +11,7 @@
             <li><strong>Utilized Sentinel-2 images for unsupervised clustering.</li>
             <li><strong>Explored K-means clustering algorithm.</li>
             <li><strong>Python libraries: rasterio, scikit-learn, numpy, matplotlib</li>
-            <li><strong>Open Source</strong>: Read more: <a href="https://towardsdatascience.com/sentinel-2-image-clustering-in-python-58f7f2c8a7f6">Towards Data Science Article</a> and check the vailable code on <a href="https://github.com/wathela/Sentinel2-clustering">GitHub</a>.</li>
+            <li><strong>Open Source</strong>: Read more: <a href="https://towardsdatascience.com/sentinel-2-image-clustering-in-python-58f7f2c8a7f6">Towards Data Science Article</a>.</li>
         </ul>
     </div>
 </div>
